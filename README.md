@@ -9,9 +9,7 @@ The **mysite** folder contains the Django app if you want an interactive demo.
 The accuracy is calculated by **Quadratic Weighted Kappa(QWK)**, which measures the agreement between two raters. The model architecture consists of 2 Long Short Term Memory(LSTM) layers with a Dense output layer. The final layer uses the Relu activation function. The QWK is calculated by training model on the dataset using 5-Fold Cross Validation and taking the average for all five folds.
 
 
-<img src="https://github.com/mankadronit/Automated-Essay--Scoring/blob/master/ScreenShots/SC1.png" width="100%">
-<img src="https://github.com/mankadronit/Automated-Essay--Scoring/blob/master/ScreenShots/SC2.png" width="100%">
-<img src="https://github.com/mankadronit/Automated-Essay--Scoring/blob/master/ScreenShots/SC3.png" width="100%">
+
 
 
 ## Requirements
